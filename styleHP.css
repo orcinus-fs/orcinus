@@ -78,6 +78,11 @@ body {
   tbody tr:nth-child(even) {
     background-color: #f7fbff;
   }
+
+/* 大会ごとのブロック間隔 */
+.competition {
+  margin-bottom: 48px;
+}
   
   /* ===== SNS・リンク ===== */
   a {
