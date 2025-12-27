@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>試合結果 2024年度 - Orcinus Finswimming Team</title>
+  <link rel="stylesheet" href="styleHP.css">
+</head>
+<body>
+  <header>
+    <h1><a href="index.html">Orcinus Finswimming Team</a></h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">ホーム</a></li>
+        <li><a href="results.html">試合結果</a></li>
+        <li><a href="schedule.html">スケジュール</a></li>
+        <li><a href="sns.html">SNS</a></li>
+        <li><a href="contact.html">問い合わせ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="results">
+      <h2>2025年度 フィンスイミングジャパンオープンマスターズ大会 結果一覧</h2>
+
+        <div class="result">
+          <h4>50m J-BF</h4>
+          <p>中田 豊　23.25</p>
+          <p>大石 一颯　23.59</p>
+          <p></p>
+        </div>
+
+        <div class="result">
+          <h4>100m J-BF</h4>
+          <p>中田 豊　50.04</p>
+          <p>大石 一颯　51.59</p>
+          <p>藤田 大輝　50.22</p>
+          <p>佐藤 嘉邦　51.81</p>
+          <p>稲福 慶　53.94</p>
+          <p>瀬川 大翔　54.06</p>
+        </div>
+
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Orcinus Finswimming Team</p>
+  </footer>
+</body>
+</html>
