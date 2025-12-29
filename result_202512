@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2025.03.22 - Orcinus Finswimming Team</title>
+  <link rel="stylesheet" href="styleHP.css">
+</head>
+<body>
+  <header>
+    <h1><a href="index.html">Orcinus Finswimming Team</a></h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">ホーム</a></li>
+        <li><a href="results.html">試合結果</a></li>
+        <li><a href="schedule.html">スケジュール</a></li>
+        <li><a href="teamrecord.html">チーム歴代記録</a></li>
+        <li><a href="sns.html">SNS</a></li>
+        <li><a href="contact.html">問い合わせ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="results">
+      <h2>関東オープン（2025/10/05） 結果一覧</h2>
+
+        <div class="result">
+          <h4>50m CMAS-BF</h4>
+          <p>佐藤 嘉邦　22.03</p>
+          <p>藤田 大輝　22.37</p>
+        </div>
+
+        <div class="result">
+          <h4>100m CMAS-BF</h4>
+          <p>藤田 大輝　48.08　2位入賞</p>
+          <p>佐藤 嘉邦　49.20　4位入賞</p>
+        </div>
+        
+      </section>
+        
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Orcinus Finswimming Team</p>
+  </footer>
+</body>
+</html>
